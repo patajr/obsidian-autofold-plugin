@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "auto-fold",
+	"name": "Auto Fold - Fold On Open",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically fold callouts/headers/codeblocks with this plugin, includes a setting to automatically fold when a note is open.",
+	"author": "DeszKSebas - PATAJr",
+	"authorUrl": "https://github.com/patajr",
+	"fundingUrl": "https://github.com/patajr",
 	"isDesktopOnly": false
 }
