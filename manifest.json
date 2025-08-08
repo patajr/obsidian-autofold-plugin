@@ -1,7 +1,7 @@
 {
 	"id": "auto-fold",
 	"name": "Auto Fold - Fold On Open",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Automatically fold callouts/headers/codeblocks with this plugin, includes a setting to automatically fold when a note is open.",
 	"author": "DeszKSebas - PATAJr",
